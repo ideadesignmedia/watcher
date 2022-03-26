@@ -1,0 +1,11 @@
+{
+  "name": "@ideadesignmedia/watcher",
+  "version": "1.0.0",
+  "description": "Filesystem event handler",
+  "main": "watcher.js",
+  "author": "ideadesignmedia <samwagnermedia@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.3"
+  }
+}
